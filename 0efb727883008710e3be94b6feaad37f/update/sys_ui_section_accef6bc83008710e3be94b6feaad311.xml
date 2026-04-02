@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="accef6bc83008710e3be94b6feaad311" sys_domain="global" table="x_1956648_wish_l_0_wishlisttable" version="3" view="">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_1956648_wish_l_0_wishlisttable</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-04-02 11:01:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>accef6bc83008710e3be94b6feaad311</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1956648_wish_l_0_wishlisttable</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Wish List" source="x_1956648_wish_l_0">0efb727883008710e3be94b6feaad37f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wish List">0efb727883008710e3be94b6feaad37f</sys_scope>
+            <sys_update_name>sys_ui_section_accef6bc83008710e3be94b6feaad311</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-04-02 11:01:10</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
